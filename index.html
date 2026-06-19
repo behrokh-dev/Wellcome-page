@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="asset/style.css">
+</head>
+<body>
+    <div class="card">
+        <div class="card-top">
+          <div class="card-emoji">👋</div>
+          <div class="card-title">Welcome!</div>
+          <div class="card-sub">Enter your name to get a personalized greeting</div>
+        </div>
+  
+        <div class="input-wrap">
+          <input type="text" id="nameInput" placeholder="Enter your name..."/>
+          <button class="greet-btn" onclick="greet()">Say Hello!</button>
+        </div>
+  
+        <div class="result-box" id="resultBox">
+          <div class="result-greeting" id="greetingText"></div>
+          <div class="result-time" id="timeText"></div>
+        </div>
+      </div>
+</body>
+<script src="asset/master.js"></script>
+</html>
