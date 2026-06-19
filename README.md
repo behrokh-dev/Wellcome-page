@@ -9,6 +9,9 @@ This project was created as one of my first JavaScript exercises to practice wor
 
 🔗 https://behrokh-dev.github.io/Wellcome-page/
 
+ ## Preview
+<img width="1920" height="866" alt="Image" src="https://github.com/user-attachments/assets/e5637fe8-d1b5-4bab-919f-04a40efd9c4b" />
+
 ## ✨ Features
 
 - 👤 Personalized greeting using the user's name
